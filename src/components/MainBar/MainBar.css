@@ -1,0 +1,19 @@
+.MainBar{
+    background-color: rgb(168, 235, 235);
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   padding: 15px;
+   font-weight: bold;
+   padding-left: 10px;
+ 
+}
+.MainBar span{
+    color:#744adf;
+}
+.nav-item-2{
+    margin:0px 0px;
+    font-size:medium;
+    font-weight: 500;
+    text-decoration:none;
+    color:#8f75d0;
+    transition:0.2s
+}
